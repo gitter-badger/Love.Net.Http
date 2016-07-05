@@ -1,6 +1,6 @@
 ﻿{
   "version": "1.0.0-*",
-  "description": "This library the Json formatter extensions for .NET Core HttpClient and HttpContent.",
+  "description": "This library contains the Json formatter extensions for .NET Core HttpClient and HttpContent.",
   "authors": [ "rigofunc", "rigofunc@outlook.com", "lotosbin", "lotosbin@gmail.com" ],
   "packOptions": {
     "projectUrl": "https://github.com/lovedotnet/Love.Net.Http",
