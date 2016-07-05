@@ -9,7 +9,7 @@
       "type": "git",
       "url": "https://github.com/lovedotnet/Love.Net.Http.git"
     },
-    "tags": [ "Services", "Infrastructure" ]
+    "tags": [ "Http", "Json", "HttpClient" ]
   },
   "buildOptions": {
     "optimize": true,
